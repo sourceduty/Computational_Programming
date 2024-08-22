@@ -70,6 +70,7 @@ Example:
 #### Example Models:
 
 Lambda Calculus Model:
+
 Abstract Syntax:
 - Variables: x, y, z
 - Expressions: E ::= V | λV.E | E E
