@@ -126,6 +126,13 @@ Simulation Framework:
 - Simulator: Turing machine execution tracing through tape and head movements.
 
 #
+### Programming for Computations – Python
+
+The document "Programming for Computations – Python" emphasizes the role of programming as a vital tool for solving mathematical problems, particularly in engineering and science. This approach involves teaching students not just the mechanics of programming, but how to think algorithmically and apply computational methods to solve real-world mathematical problems. The document argues that programming should be integrated into mathematics and science education because it enhances understanding and allows for the practical application of theoretical concepts. This methodology aligns with the principles of Computational Programming, where abstract mathematical environments and structured frameworks are used to simulate and analyze computational models, emphasizing the importance of syntax, semantics, and the conceptual framework.
+
+Similar to Computational Programming, the document advocates for a deeper understanding of the underlying mathematical principles through programming. The emphasis on clean design, verification, and the ability to generalize problem-solving methods in the document reflects Computational Programming’s goal of creating environments where computational processes can be rigorously defined, simulated, and analyzed. Both approaches seek to elevate the role of computation beyond traditional coding, promoting a more abstract and theoretically grounded understanding of computation that is crucial for advancing modern computer science and engineering practices.
+
+#
 
 > Alex: "*This is an original computational theory framework and a new subject created for further research.*"
 
