@@ -4,6 +4,15 @@
 
 #
 
+[Computational Programming](https://chatgpt.com/g/g-KPEZirRkO-computational-programming) was built to assist users in exploring and understanding Computational Programming, a novel approach that emphasizes abstraction, mathematical frameworks, and structured analysis over traditional coding. It helps users define, simulate, and analyze computational models by guiding them through the creation of abstract syntax, semantic models, and computational environments. The focus is on clarity and precision, ensuring that users gain a deep understanding of the theoretical and practical aspects of computational processes.
+
+Unlike typical programming tools, this GPT prioritizes the conceptual and mathematical underpinnings of computational models rather than specific coding languages or syntax. It encourages users to think abstractly about how computational processes work, exploring the relationships between syntax and semantics within a structured environment. By guiding users through this methodical approach, the GPT helps them develop insights into the foundational principles of computation.
+
+Additionally, this GPT takes a supportive and academic tone, offering step-by-step guidance to ensure users grasp complex concepts effectively. It uses a multiple-choice process to clarify users' understanding and to help them make informed decisions as they build and analyze their computational models. By fostering a structured and methodical learning environment, the GPT enables users to deepen their understanding of Computational Programming in a way that is both accessible and intellectually rigorous.
+
+#
+### Computational Programming
+
 Computational Programming, as a novel concept, reimagines the traditional approach to software development by shifting the focus from coding specific algorithms and systems to creating abstract, mathematical environments where computational processes can be defined, simulated, and analyzed. This framework enables the design of controlled virtual environments that serve as testbeds for understanding the fundamental behaviors and properties of computational models. By providing a structured way to explore these models through well-defined syntax and semantics, Computational Programming offers a powerful tool for both theoretical exploration and practical application in computer science.
 
 The theoretical framework of Computational Programming is composed of several core components: abstract syntax, semantic models, computational environments, and simulation frameworks. These components work together to create a cohesive system in which programs are not just written but are rigorously defined and explored within a virtual environment. The abstract syntax provides the foundational rules and structures, while the semantic models give meaning to these structures, translating them into mathematical entities or logical processes. The computational environment acts as the stage where these abstract entities come to life, allowing for their dynamic interaction, while the simulation framework offers the mechanisms to observe, test, and analyze the behavior of the models over time.
