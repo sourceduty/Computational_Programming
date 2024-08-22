@@ -119,6 +119,8 @@ Simulation Framework:
 
 > Alex: "*This is an original computational theory framework and a new subject created for further research.*"
 
+> "*I'm 99% certain that Computational Programming is a brand new subject and it could be taught in universities.*"
+
 #
 ### Related Links
 
