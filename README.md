@@ -13,10 +13,11 @@ This approach opens up new possibilities for understanding and developing comput
 #
 ### Framework for Computational Programming
 
-#### Definition of Computational Programming:
+Definition of Computational Programming:
 
 Computational Programming involves the creation of abstract mathematical models, theoretical constructs, and computational frameworks that serve as controlled virtual environments. These environments are designed for the purpose of defining, analyzing, and simulating computational processes and programs.
 
+#
 #### Core Components:
 
 Abstract Syntax:
@@ -56,6 +57,7 @@ Example:
 - Interpreter: A tool that processes and executes abstract syntax within the environment.
 - Simulator: A system that models the computational environment's behavior over time.
 
+#
 #### Example Models:
 
 Lambda Calculus Model:
