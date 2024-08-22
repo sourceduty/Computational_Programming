@@ -1,6 +1,6 @@
 ![Computational Programming Theory](https://github.com/user-attachments/assets/2d1cd757-8bc9-430b-bbd6-70343018e617)
 
-> The original theoretical framework of Computational Programming.
+> The original theoretical framework of Computational Programming for AI.
 
 #
 
