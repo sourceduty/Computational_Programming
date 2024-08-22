@@ -133,6 +133,10 @@ The document "Programming for Computations – Python" emphasizes the role of pr
 Similar to Computational Programming, the document advocates for a deeper understanding of the underlying mathematical principles through programming. The emphasis on clean design, verification, and the ability to generalize problem-solving methods in the document reflects Computational Programming’s goal of creating environments where computational processes can be rigorously defined, simulated, and analyzed. Both approaches seek to elevate the role of computation beyond traditional coding, promoting a more abstract and theoretically grounded understanding of computation that is crucial for advancing modern computer science and engineering practices.
 
 #
+
+> Alex: "*This is an original computational theory framework for AI and a new conceptual subject created for further research.*"
+
+#
 ### Related Links
 
 [Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
