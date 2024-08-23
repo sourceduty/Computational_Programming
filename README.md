@@ -174,6 +174,8 @@ Similar to Computational Programming, the document advocates for a deeper unders
 [Theory](https://github.com/sourceduty/Theory)
 <br>
 [Math](https://github.com/sourceduty/Math)
+<br>
+[Computational Cyberdynamics](https://github.com/sourceduty/Computational_Cyberdynamics)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
